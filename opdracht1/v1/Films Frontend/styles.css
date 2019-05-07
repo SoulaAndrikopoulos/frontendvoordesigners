@@ -29,6 +29,11 @@ li {
     margin: 1em;
 }
 
+.film {
+    display: inline-block;
+    margin: 1em;
+}
+
 a {
     color: white;
     text-decoration: none;
@@ -39,15 +44,27 @@ a:hover {
 }
 
 img {
-    margin: 2em;
+    margin: 2em 2em -1em 2em;
     width: 10em;
     height: 15em;
 }
 
-img:hover {
-    opacity: 0.5;
+
+.film svg {
+    margin: 0rem 0rem 0rem -6rem;
+    margin-top: -10em;
+    fill: white;
+    width: 4rem;
+    height: 2rem;
+    transition: ease-in-out 0.5s;
+    font-size: 0.75rem;
 }
 
+.save.active {
+    fill: red;
+    width: 5rem;
+    transition: ease-in-out 0.5s;
+}
 
 #heart {
     fill: white;
@@ -57,21 +74,6 @@ img:hover {
     transition: ease-in-out 0.5s;
 }
 
-
-button {
-    margin: 0.5rem 0.5rem 0.5rem 6.5rem;
-    fill: white;
-    width: 4rem;
-    height: 2rem;
-    transition: ease-in-out 0.5s;
-    font-size: 0.75rem;
-}
-
-.save.active {
-    background-color: red;
-    width: 5rem;
-    transition: ease-in-out 0.5s;
-}
 
 /*.groei{
     width: 5rem;
