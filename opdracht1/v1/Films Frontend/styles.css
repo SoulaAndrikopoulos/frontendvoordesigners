@@ -1,0 +1,80 @@
+* {
+    font-family: 'Nexa', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    height: 3rem;
+    margin: 2em;
+}
+
+body {
+    margin: 0;
+    background: black;
+}
+
+h1 {
+    color: white;
+    margin-left: 1em;
+}
+
+section {
+    display: flex;
+}
+
+li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 1em;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkred;
+}
+
+img {
+    margin: 2em;
+    width: 10em;
+    height: 15em;
+}
+
+img:hover {
+    opacity: 0.5;
+}
+
+
+#heart {
+    fill: white;
+    width: 3rem;
+    height: 3rem;
+    float: right;
+    transition: ease-in-out 0.5s;
+}
+
+
+button {
+    margin: 0.5rem 0.5rem 0.5rem 6.5rem;
+    fill: white;
+    width: 4rem;
+    height: 2rem;
+    transition: ease-in-out 0.5s;
+    font-size: 0.75rem;
+}
+
+.save.active {
+    background-color: red;
+    width: 5rem;
+    transition: ease-in-out 0.5s;
+}
+
+/*.groei{
+    width: 5rem;
+    height: 5rem;
+    background-color: blue;
+}*/
