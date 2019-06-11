@@ -3,8 +3,8 @@
 Het ontwerp moet uitgewerkt zijn in HTML, CSS en Javascript om te kunnen testen.
 
 De volgende design principles zijn gebruikt:
-
 04 Keep users in control
+
 11 Strong visual hierarchies work best
 
 
