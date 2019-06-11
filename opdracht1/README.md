@@ -9,10 +9,6 @@ De volgende design principles zijn gebruikt:
 11 Strong visual hierarchies work best
 
 
-Demo van opdracht 1:
-
-[Demo 1 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v1/)
-
 
 link naar de bron code van de demo:
 
