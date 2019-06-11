@@ -1,7 +1,13 @@
 # frontend voor designers - opdracht 1
-Hier beschrijf je de opdracht, wat je hebt gemaakt en hoe je je ontwerp door verschillende versies te testen hebt verbeterd. Bij iedere test voeg je een link toe naar de betreffende demo.
+"Ontwerp een user interface voor een gegeven use case." 
+Het ontwerp moet uitgewerkt zijn in HTML, CSS en Javascript om te kunnen testen.
 
-Bijvoorbeel bij de demo van versie in kun je zo een link maken, zodat iedereen de demo zelf kan uitproberen:
+De volgende design principles zijn gebruikt:
+04 Keep users in control
+11 Strong visual hierarchies work best
+
+
+Demo van opdracht 1:
 
 [Demo 1 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v1/)
 
