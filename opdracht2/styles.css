@@ -1,0 +1,70 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+nav {
+    margin: 0;
+    display: flex;
+    background-color: black;
+}
+
+.nav {
+    display: inline-block;
+    margin: 1em;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+ul {
+    display: flex;
+
+}
+
+li img {
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+}
+
+/*Deze slides zou ik met een display:none uit het zicht verbergen en weer kunnen aanroepen met een functie in mijn code*/
+
+/*
+.slides:nth-child(2) {
+    display: none;
+}
+
+
+.slides:nth-child(3) {
+    display: none;
+}
+
+.slides:nth-child(4) {
+    display: none;
+}
+*/
+
+.carousel_back {
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    left: 5%;
+    cursor: pointer;
+    width: 3em;
+    margin: -15em 1em 1em 1em;
+}
+
+.carousel_next {
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    right: 5%;
+    cursor: pointer;
+    width: 3em;
+    margin: -15em 1em 1em 1em;
+}
