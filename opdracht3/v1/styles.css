@@ -1,0 +1,54 @@
+/* Css van de film database*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: black;
+    width: 800px;
+    margin: 0 auto;
+}
+
+
+/* main styles */
+h1,
+h2 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 4rem;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* section styles, hier komen de Json files in*/
+section img {
+    display: block;
+    /*  width: 15rem; */
+    margin: 0;
+    padding: 2rem;
+}
+
+section p {
+    color: white;
+    margin: 5px 0;
+}
+
+
+h2 {
+    font-size: 1.5rem;
+    padding: 2rem;
+}
+
+/*footer style */
+#footer {
+    padding: 2rem;
+    font-size: 1rem;
+}
