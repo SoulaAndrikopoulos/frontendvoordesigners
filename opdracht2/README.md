@@ -9,3 +9,8 @@ Mijn doel was om een slideshow te maken van mijn vakantiefoto’s uit New  York.
 
 
 De volgende principles heb ik willen toepassen: “One primary action per screen” dus het klikken op de pijltjes is in dit geval de primary action. Verder heb ik “Provide a natural next step” toegevoegd: dus het inladen van een volgende afbeelding wanneer er op de knop wordt geklikt.
+
+[Demo van versie 1]
+(https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht2/)
+
+*De Javascript is niet uitgewerkt, dit zou ik graag nog willen laten werken
