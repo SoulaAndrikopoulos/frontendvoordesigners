@@ -6,6 +6,7 @@ De opdracht:
 In mijn ontwerp heb ik de volgende principes toegepast:
 
 -Visual Hierarchy
+
 -Form follows behaviour
 
 Mijn ontwerp bestaat uit de volgende states:
