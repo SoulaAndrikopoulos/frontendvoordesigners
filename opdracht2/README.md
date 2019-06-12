@@ -14,3 +14,7 @@ De volgende principles heb ik willen toepassen: “One primary action per screen
 (https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht2/)
 
 *De Javascript is niet uitgewerkt, dit zou ik graag nog willen laten werken
+
+
+[Link naar de code]
+(https://github.com/SoulaAndrikopoulos/frontendvoordesigners/tree/master/opdracht2)
