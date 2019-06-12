@@ -15,6 +15,11 @@ Mijn ontwerp bestaat uit de volgende states:
 De data wordt door middel van JSON gehaald uit een andere database en in mijn HTML ingeladen.
 Verder wil ik nog wel werken met UI events.
 
+
+[Demo versie 2:]
+(https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht3/v1/)
+
+
 De huidige versie:
 [Code versie 3 voor opdracht 3](https://github.com/SoulaAndrikopoulos/frontendvoordesigners/tree/master/opdracht3)
 
