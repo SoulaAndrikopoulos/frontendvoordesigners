@@ -10,7 +10,9 @@ In mijn ontwerp heb ik de volgende principes toegepast:
 -Form follows behaviour
 
 Mijn ontwerp bestaat uit de volgende states:
+
 -Loading state
+
 -Active state
 
 De data wordt door middel van JSON gehaald uit een andere database en in mijn HTML ingeladen.
