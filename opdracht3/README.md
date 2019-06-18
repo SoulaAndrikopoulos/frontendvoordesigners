@@ -15,6 +15,12 @@ Mijn ontwerp bestaat uit de volgende states:
 
 -Active state
 
+De volgende Events worden gebruikt:
+
+-onclick (wanneer de testpersoon op day/night mdoe klikt)
+
+-Onload (wanneer de pagina aan het laden is)
+
 De data wordt door middel van JSON gehaald uit een andere database en in mijn HTML ingeladen.
 Verder wil ik nog wel werken met UI events.
 
@@ -34,5 +40,5 @@ De huidige versie:
 (https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht3/opdracht%203%20versie%203/)
 
 
-
-
+[Demo versie 4] de huidige versie
+(https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht3/opdracht%203%20versie%203/)
