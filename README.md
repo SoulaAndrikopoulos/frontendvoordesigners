@@ -14,3 +14,8 @@ Het vak bestaat uit 3 opdrachten:
 ---
 - [Markup cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Getting started with GitHub Pages](https://guides.github.com/features/pages/)
+
+...
+
+[Demo opdracht 3] de huidige versie
+(https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht3/opdracht%203%20versie%203/)
