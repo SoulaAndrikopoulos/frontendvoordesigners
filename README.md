@@ -17,4 +17,10 @@ Het vak bestaat uit 3 opdrachten:
 
 ...
 
+[Opdracht 3] de huidige versie
+(https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht3/opdracht%203%20versie%204/)
 
+[Opdracht 2] (https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht2/)
+
+
+[Opdracht 1] (https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht1/v1/Films%20Frontend/)
