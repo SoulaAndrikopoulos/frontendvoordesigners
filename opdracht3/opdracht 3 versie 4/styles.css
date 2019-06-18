@@ -12,7 +12,8 @@ body {
     margin: 0 auto;
 }
 
-/*loader styling*/
+/*styling van de div genaamd "loader", hier zit de GIF in. De styling zorgt ervoor dat de GIF animatie in het midden blijft. Gemaakt met behulp van: https://codepen.io/dcode-software/pen/NEErgO
+*/
 
 .loader {
     position: fixed;
@@ -44,7 +45,7 @@ body {
     }
 }
 
-/* main styles */
+/* Styling van de main */
 
 h1 {
     color: white;
@@ -66,7 +67,7 @@ a img {
     justify-content: center;
 }
 
-/* section styles, hier komen de Json files in*/
+/* section styles, hier komen de Json files in. Dit is de styling van data en afbeeldingen*/
 
 section img {
     display: block;
@@ -95,7 +96,7 @@ h2 {
     font-size: 1.5rem;
 }
 
-/*button */
+/*De css styling en animaties van de buttons voor de day/night mode */
 
 button img {
     width: 4em;
@@ -119,7 +120,7 @@ button:hover {
 }
 
 
-/*footer style */
+/*footer styling */
 
 #footer {
     padding: 2rem;
