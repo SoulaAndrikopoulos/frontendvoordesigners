@@ -17,5 +17,4 @@ Het vak bestaat uit 3 opdrachten:
 
 ...
 
-[Demo opdracht 3] de huidige versie
-(https://soulaandrikopoulos.github.io/frontendvoordesigners/opdracht3/opdracht%203%20versie%203/)
+
